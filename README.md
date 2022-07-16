@@ -1,4 +1,5 @@
 # Web-Scraping
+Mengambil menggunakan analisis posisi dari tag html. (Belum dengan JSON)
 
 # Ringkasan
 Saya membuat webscraping dengan menggunakan python untuk mengumpulkan informasi dari beberapa situs berita online.
